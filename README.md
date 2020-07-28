@@ -1,5 +1,7 @@
 #Info
 
+![Image EvilBot](http://beta.adalab.es/project-promo-j-module-2-team-1-morning/assets/images/logo-completom.png)
+
 Is a card generator, coded as an assignment for Adalab.
 
 This project is a collaborative one.
