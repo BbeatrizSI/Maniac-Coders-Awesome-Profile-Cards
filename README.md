@@ -1,6 +1,6 @@
 #Info
 
-![Image EvilBot](http://beta.adalab.es/project-promo-j-module-2-team-1-morning/assets/images/logo-completom.png)
+![Image EvilBot](https://github.com/BbeatrizSI/Maniac-Coders-Awesome-Profile-Cards/blob/master/src/images/logo-completom.png)
 
 Is a card generator, coded as an assignment for Adalab.
 
